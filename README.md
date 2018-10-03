@@ -1,2 +1,3 @@
 # Spuul-Cards-Library
-React Native initialisation of a Cards for Projects. No business requirements or details will be included or push.
+React Native initialisation of cards for future projects.
+No business requirements or details will be included or pushed.
